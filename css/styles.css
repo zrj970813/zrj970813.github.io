@@ -533,6 +533,7 @@ display: inherit;
 #timeline .timeline-movement {
   border-bottom: dashed 1px #CC4646;
   position: relative;
+  padding-top: 60px;
 }
 #timeline .timeline-movement.timeline-movement-top {
   height: 60px;

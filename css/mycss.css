@@ -1,0 +1,10 @@
+a:hover{text-decoration: none;}
+.head{padding: 10px 0;}
+.head-title{line-height: 40px;font-size: 20px;}
+.head-title{background: linear-gradient(to right, red, blue);-webkit-background-clip: text;color: transparent;}
+.head a{width: 25%;color: #444444;line-height: 40px;font-size: 16px;}
+.head a:hover{color: dodgerblue;font-size: 18px;}
+.nav{overflow-x: auto;white-space: nowrap;}
+.poetry-title{display: block;text-align: center;font-size: 20px;line-height: 35px;}
+.poetry{text-indent: 2rem;background: linear-gradient(to right, #03a9ff, #793ffc);-webkit-background-clip: text;color: transparent;}
+.head .cheak-nav{color: dodgerblue;}
